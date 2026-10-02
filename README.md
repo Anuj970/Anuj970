@@ -17,6 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anuj970&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Anuj970&icon=2&color=0)(https://komarev.com))]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com)
